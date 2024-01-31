@@ -1,2 +1,2 @@
-# cyn-sizzy-gmail
+#  cynsizzy/cyn-sizzy-gmail
 my repository
